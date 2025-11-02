@@ -1,0 +1,27 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vscode/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Others
+*.exe
+*.dll
+*.log
+*.cache
+*.pdb
+*.dbmdl
+*.jfm
+*.swp
+*.tmp
+*.json.user
+*.DS_Store
+
+# Auto-generated files
+launchSettings.json

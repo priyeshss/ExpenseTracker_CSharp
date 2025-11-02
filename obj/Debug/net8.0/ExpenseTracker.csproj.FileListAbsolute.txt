@@ -1,0 +1,14 @@
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.exe
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.deps.json
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.runtimeconfig.json
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.dll
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.pdb
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfoInputs.cache
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfo.cs
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.dll
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\obj\Debug\net8.0\refint\ExpenseTracker.dll
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.pdb
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.genruntimeconfig.cache
+C:\Users\santosh surti\source\repos\Priyesh\Showcase Projects\ExpenseTracker\obj\Debug\net8.0\ref\ExpenseTracker.dll

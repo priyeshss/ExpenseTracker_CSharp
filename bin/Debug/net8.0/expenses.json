@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Description": "Salary",
+    "Amount": 18800,
+    "Category": "Total",
+    "Date": "2025-11-02T15:27:31.8330755+05:30"
+  },
+  {
+    "Id": 2,
+    "Description": "EMI",
+    "Amount": 6245,
+    "Category": "Bike",
+    "Date": "2025-11-02T15:28:31.4467506+05:30"
+  }
+]
